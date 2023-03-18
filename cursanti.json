@@ -1,0 +1,31 @@
+[
+    {
+        "Nume": "Popescu",
+        "Prenume": "Ana",
+        "Varsta": "25",
+        "Ocupatie": "contabil",
+        "Hobby": "lectura",
+        "Email": "ana.popescu@",
+        "Telefon": "0742123456"
+    },
+
+    {
+        "Nume": "Ionescu",
+        "Prenume": "Matei",
+        "Varsta": "30",
+        "Ocupatie": "militar",
+        "Hobby": "sport",
+        "Email": "pm@gmail.com",
+        "Telefon": "0472456789"
+    },
+
+    {
+        "Nume": "Popa",
+        "Prenume": "Corina",
+        "Varsta": "28",
+        "Ocupatie": "programator",
+        "Hobby": "plimbari",
+        "Email": "popa.c@gmail.com",
+        "Telefon": "7441789456"
+    }
+]
